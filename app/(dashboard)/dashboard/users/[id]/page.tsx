@@ -8,3 +8,4 @@ const UserDetails = async ({params}: {params:  Promise<{id: string}>}) => {
 }
 
 export default UserDetails
+
